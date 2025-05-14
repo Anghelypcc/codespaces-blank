@@ -1,6 +1,6 @@
 
 print ("ingrese un numero")
-numero1=int (input())
+numero1=int (input("ingrese un numero"))
 #print "ingrese otro numero"
 numero2=int (input("ingrese otro numero"))
 suma=(numero1 + numero2)
@@ -12,6 +12,10 @@ igual = numero1 == numero2
 # print("tales mayor que tal", suma)
 if numero1 > numero2:
      print("numero1 > numero2")
-           
+
 if numero1 < numero2:
-     print("numero1 < numero2")         
+     print("numero1 < numero2")
+     
+if numero1 == numero2:
+     print("numero1 == numero2")
+                              
