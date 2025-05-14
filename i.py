@@ -27,3 +27,4 @@ menor=(20-30)<10
 y=mayor and menor
 print(y, "and")
  
+ 
