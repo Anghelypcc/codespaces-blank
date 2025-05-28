@@ -14,10 +14,10 @@ while noAdivinado:
    continue
   if numeroIngresado > numero_secreto:
     print("el numero que ingresaste es mayor al que tienes que adivinar")
-
+   
   if numeroIngresado < numero_secreto :
     print("el numero que ingresaste es menor al que tienes que adivinar")
-
+    
   if numeroIngresado == numero_secreto:
    print("adivinaste el numero")
- 
+  
